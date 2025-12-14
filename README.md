@@ -1,5 +1,7 @@
 # Tribal History Lab
 
+![Tribal History Lab Logo](src/assets/logo.png)
+
 A modern web application dedicated to preserving tribal traditions and empowering communities. This project features a responsive landing page and user authentication interfaces.
 
 ---
@@ -38,6 +40,12 @@ This project is built as part of my continuous learning journey and may be updat
 - **User Authentication**: Clean and responsive Login and Registration pages.
 - **Responsive Design**: Built with Tailwind CSS to look good on mobile and desktop.
 - **Single Page Navigation**: Seamless transition between sections.
+
+---
+
+## 📸 Screenshots
+
+![Landing Page Preview](https://via.placeholder.com/800x400?text=Landing+Page+Screenshot)
 
 ---
 
