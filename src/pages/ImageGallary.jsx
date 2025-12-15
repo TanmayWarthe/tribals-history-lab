@@ -8,7 +8,6 @@ import music from '../assets/music.png'
 import s1 from '../assets/sldier/img1.png'
 import s2 from '../assets/sldier/img2.png'
 import s3 from '../assets/sldier/img3.png'
-import sliderImage from '../assets/sldier/image.png'
 
 const ImageGallery = () => {
   const images = [
