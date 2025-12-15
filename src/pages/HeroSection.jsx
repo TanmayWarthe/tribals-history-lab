@@ -68,9 +68,9 @@ export default function HeroSection() {
               >
                 Get started
               </a>
-              <a href="#" className="text-sm/6 font-semibold text-white">
+              <a href="#tribal-heros-section" className="text-sm/6 font-semibold text-white">
                 Learn more <span aria-hidden="true">→</span>
-              </a>
+              </a>  
             </div>
           </div>
         </div>
